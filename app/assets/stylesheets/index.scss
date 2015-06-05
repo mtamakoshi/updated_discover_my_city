@@ -26,6 +26,16 @@ body {
 	color: #FFFFFF;
 }
 
+
+.comment-link a{
+	font-family: $primary-font-bold;
+	display: block;
+	float: right;
+	margin: 15px;
+	color: #FFFFFF;
+	}
+
+
 #main {
 	width: 100%;
 	height: auto;
