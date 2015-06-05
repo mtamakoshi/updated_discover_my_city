@@ -35,7 +35,7 @@ before_action :authenticate_user!, only: [:edit, :update, :destroy, :close, :pas
 		else
 			render :new
 		end
-		redirect_to '/'
+		redirect_to root_path
 	end
 
 
