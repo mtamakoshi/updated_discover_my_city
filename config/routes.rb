@@ -13,4 +13,6 @@ Rails.application.routes.draw do
   # get '/signup', to: "devise/registrations#new"
   root to: "index#home"
 
+  get '/comment', to: 'artworks#comments'
+
 end
