@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails app that lets the user discover public art installations throughout the 5 boroughs of New York City.  Created collaboratively as a final group project for the New York Code + Design Academy Web Development Intensive/April 2015.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Future implementations may include other landmarks and points of interest such as architecturally significant and unique buildings, subway art, historical landmarks, etc.; user membership and the ability to share comments/photos about the art discovered and points of interest nearby.  
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Built with Ruby version 2.2.0, Rails, HTML/CSS/SASS, jQuery, Paperclip gem, Google Maps API, and Bootstrap.
+

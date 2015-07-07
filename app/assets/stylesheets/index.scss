@@ -19,22 +19,44 @@ body {
 }
 
 .back-link a{
-	font-family: $primary-font-bold;
-	display: block;
-	float: right;
-	margin: 15px;
-	color: #FFFFFF;
+    font-family: $primary-font-bold;
+    display: block;
+    float: right;
+    margin: 15px;
+    color: #FFFFFF ;
 }
 
 
 .comment-link a{
-	font-family: $primary-font-bold;
-	display: block;
-	float: right;
-	margin: 15px;
-	color: #FFFFFF;
-	}
+    font-family: $primary-font-bold;
+    display: inline;
+    float: right;
+    margin: 15px;
+    color: #FFFFFF ;
 
+    }
+
+.logout-link a{
+    font-family: $primary-font-bold;
+    display: inline;
+    float: left;
+    margin: 15px;
+    color: #FFFFFF ;
+    }
+// .actions {
+// 	font-family: $primary-font-bold;
+// 	display: inline;
+// 	float: left;
+// 	margin: 15px;
+// 	color: #FFFFFF;
+// }
+
+// .error_explanation {
+// 	font-family: $primary-font-bold;
+//   display: block;
+//  	float: left;
+//   color: #FFFFFF ;
+// }
 
 #main {
 	width: 100%;
